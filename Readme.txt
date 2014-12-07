@@ -1,3 +1,5 @@
+NOTE: This is not a finished project and the scripts will be combined for better use. Look at scripts/classify.pl for details.
+
 This project was initiated by Prof. Jae Hyung Lee to look deeper into a lesser-known strain of Prevotella Intermedia and compare it with a well-known strain to recognize its differences and relative functions.
 
 Prevotella Intermedia is known to cause various periodontal diseases, including periodontitis and gingivitis. Despite its important role, this microorganism is not yet heavily studied, and only one of its strains, P. Intermedia 17, has its complete DNA sequences assembled. Meanwhile, a lesser known strain, ATCC 25611, is assembled into 24 DNA contigs, with its coding sequences not fully known. We intend to compare this lesser known strain 25611 to a well known strain 17, thereby further understanding the functional differences between the two strains and ultimately building a global alignment of strain 25611 DNA sequences compared to strain 17.
